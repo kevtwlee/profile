@@ -1,0 +1,159 @@
+{
+  "name": "Sauharda Meher Shrestha",
+  "label": "Data Analyst Intern",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "sauhardameher@gmail.com",
+    "phone": "7633409386",
+    "location": "Saint Cloud, MN"
+  },
+  "summary": "Computer Science Senior at Saint Cloud State University. Seeking to apply my skills in machine learning and software development to build scalable and efficient systems.",
+  "url": "https://coreyms.com",
+  "social_links": [
+    
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sauharda-meher-shrestha-8b500a212/",
+      "svg_path": "img/LinkedIn.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/Sauharda1184",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Hennepin County - Transportation and Public Works Department",
+      "position": "Data Analyst Intern",
+      "url": "https://lasp.colorado.edu/",
+      "start_date": "2025",
+      "end_date": "Present",
+      "summary": "",
+      "highlights": [
+        " Analyze traffic data using Python, R, SQL and statistical techniques to identify trends in turning movements, signal operations, and lane usage. Utilize ArcGIS and Synchro for geospatial and simulation-based analysis.",
+        "Develop Python scripts to clean, process, and visualize large datasets, improving efficiency in traffic studies.",
+        "Assist in troubleshooting computer and network issues in coordination with IT. Support engineering projects by collecting intersection measurements, performing geometric calculations, and documenting findings through sketches and reports."
+      ]
+    },
+    {
+      "company": "SCSU Survey Research Center",
+      "position": "Data Analyst Intern",
+      "url": "https://wvgis.wvu.edu/",
+      "start_date": "2022",
+      "end_date": "2024",
+      "summary": "",
+      "highlights": [
+        "Utilized Python to analyze large datasets collected from surveys, applying statistical methods and data cleaning techniques to ensure high data quality.",
+        "Developed and automated scripts for data pre-processing, including handling missing data and outlier detection.",
+        "Applied Python libraries such as Pandas and NumPy for efficient data manipulation and analysis of trends."
+      ]
+    },
+    {
+      "company": "Husky Tech at Saint Cloud State University",
+      "position": "IT Support Specialist",
+      "url": "https://www.matricinnovates.com/",
+      "start_date": "2010",
+      "end_date": "2011",
+      "summary": "",
+      "highlights": [
+        "Managed encryption of customer data to ensure compliance with university security policies, implemented security compliance automation using Python scripts, reducing manual effort and enhancing data encryption.",
+        "Developed and maintained IT operations solutions, significantly improving software deployment."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI-Powered Resume and Cover Letter Generator",
+      "summary": "An application that generates tailored resumes and cover letters based on a user's job description and past experience. It allows users to select resume templates, customize sections, and export their resumes in PDF format.",
+      "url": "https://github.com/Sauharda1184/resume-cover-letter-AI",
+      "images": [
+        {
+          "img_path": "portfolio_media/home.png",
+          "caption": "Home Page"
+        },
+        {
+          "img_path": "portfolio_media/resume.png",
+          "caption": "Resume generator"
+        },
+        {
+          "img_path": "portfolio_media/coverLetter.png",
+          "caption": "Cover Letter Generator"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "SCSU Residential Life",
+      "position": "Resident Assistant",
+      "url": "https://www.stcloudstate.edu/reslife/",
+      "start_date": "2023",
+      "end_date": "2025",
+      "summary": "Work towards community development by organizing programs to meet the needs of residents.Connect residents to other campus activities and create an inclusive environment for the residents",
+      "highlights": []
+    },
+    {
+      "organization": "Nepalese Student Association",
+      "position": "Web Developer",
+      "start_date": "2023",
+      "end_date": "2024",
+      "summary": "Developed a web application using C-Sharp and ASP.NET, implementing a robust backend with API integrations to support dynamic content updates and automate routine tasks.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Saint Cloud State University",
+      "location": "Saint Cloud, MN, USA",
+      "url": "https://www.stcloudstate.edu",
+      "degrees": [
+        "Bachelor of Science in Computer Science",
+        "Minor in Applied Mathematics"
+      ],
+      "honors": [
+        "2021 Internation Student Scholarship",
+        "2023 Dean's List",
+        "Won first place in 2024 Huskies Invent sponsored by Thermo-Tech"
+      ],
+      "gpa_cumulative": "3.5",
+      "gpa_major": "3.6",
+      "graduation_date": "2025"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, Flask, Django",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "System Administration, Linux",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "JavaScript, HTML, CSS",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Competing in Hackathons and Invent-a-thons",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/huskiesInventOne.jpg",
+          "caption": "Won first place in 2024 Huskies Invent sponsored by Thermo-Tech"
+        },
+        {
+          "img_path": "portfolio_media/iDsHack.png",
+          "caption": "Won third place in 2024 Hackathon sponsored by Immersion Data Solutions"
+        }
+      ]
+    }
+  ],
+  "languages": [],
+  "references": []
+}
