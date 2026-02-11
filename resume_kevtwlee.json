@@ -142,9 +142,11 @@
   "certifications": [
     {
       "certificate": "Associate of the Casualty Actuarial Society (ACAS)"
+      "url": "https://casact.org/"
     },
     {
       "certificate": "Chartered Financial Analyst (CFA)"
+      "url": "https://cfainstitute.org/"
     }
   ],
   "skills": [
